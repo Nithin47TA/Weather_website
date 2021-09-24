@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Gluten', cursive;
+}
+body{
+    background-color: blue;
+}
+.main{
+margin: 24px auto 0;
+width: 60%;
+margin-top: 12%;
+background-color: lightblue;
+text-align: center;
+border-radius: 20px;
+}
+.space{
+    padding: 20px;
+}
+#city{
+    font-size: 50px;
+}
